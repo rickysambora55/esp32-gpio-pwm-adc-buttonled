@@ -1,7 +1,7 @@
 ## 🚀 About Me
 
-Nama : Ricky Sambora
-NIM : 4.31.20.1.21
+Nama : Ricky Sambora<br>
+NIM : 4.31.20.1.21<br>
 Kelas : TE-3B
 
 # Jobsheet 1 (GPIO, PWM, ADC) - ESP32
