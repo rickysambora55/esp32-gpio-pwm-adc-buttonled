@@ -16,7 +16,7 @@ Pada jobsheet 1 terdapat 3 project yaitu simulasi GPIO, PWM, dan ADC menggunakan
 -   Kabel Jumper
 -   Resistor < 220Ω
 -   LED (5)
--   Push Button
+-   Push Button (3)
 -   Potensiometer
 
 ### Instalasi
